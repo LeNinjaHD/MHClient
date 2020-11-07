@@ -4,7 +4,7 @@
 
 **Features**
 
-- Build In MotionBlur
-- Optfine includeded
+- MotionBlur
+- Optfine
 - Keystrokes
-- Free Cosmetics for everyone
+- Kostenlose Cosmetics für jeden
