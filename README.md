@@ -1,1 +1,1 @@
-# MHClient
+# MineHackClient
